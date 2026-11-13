@@ -1,0 +1,11 @@
+{
+  "title": "Researcher Profile",
+  "base_url": "https://example.org/",
+  "author": {
+    "name": "Your Name",
+    "email": "your.name@example.org",
+    "handle": "your-handle"
+  },
+  "career_stage": "PENDING",
+  "theme": "verdant"
+}
